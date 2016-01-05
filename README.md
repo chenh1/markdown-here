@@ -20,6 +20,7 @@ To discover what can be done with Markdown in *Markdown Here*, check out the [Ma
 ![screenshot of conversion](https://raw.github.com/adam-p/markdown-here/master/store-assets/markdown-here-image1.gimp.png)
 
 ### Table of Contents
+<a href="#installation-instructions">HERE</a>
 **[Installation Instructions](#installation-instructions)**  
 **[Usage Instructions](#usage-instructions)**  
 **[Troubleshooting](#troubleshooting)**  
